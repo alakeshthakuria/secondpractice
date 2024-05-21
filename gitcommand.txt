@@ -1,0 +1,39 @@
+git init
+
+git status
+
+git config --global user.name
+
+git config --global user.email
+
+git add <filename>
+
+git commit -m "message"
+
+git checkout -b <branchname>
+
+git checkout <branchname>
+
+git branch
+
+git log
+
+git log --oneline
+
+git log --oneline --pretty
+
+
+git remote -v
+
+git remote set-url origin https://<generated token from github>@<username link with github repo>
+
+
+git pull origin <branchname>
+
+git push origin <branchname>
+
+git fetch
+
+git clone <https link for remote repo> (This command is used to copy github or remote repository to local)
+
+
