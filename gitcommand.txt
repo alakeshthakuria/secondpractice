@@ -24,11 +24,9 @@ git log --oneline
 
 git log --oneline --pretty
 
-
 git remote -v
 
 git remote set-url origin https://<generated token from github>@<username link with github repo>
-
 
 git pull origin <branchname>
 
