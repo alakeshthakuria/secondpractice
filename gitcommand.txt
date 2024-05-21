@@ -16,6 +16,8 @@ git checkout <branchname>
 
 git branch
 
+git merge <branchname>
+
 git log
 
 git log --oneline
