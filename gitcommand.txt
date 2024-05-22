@@ -36,4 +36,14 @@ git fetch
 
 git clone <https link for remote repo> (This command is used to copy github or remote repository to local)
 
+git rebase
 
+git reset --soft <commit hash>
+
+git reset --hard <commit hash>
+
+git revert <commit hash>
+
+git show <commit hash>
+
+Need to add more command
