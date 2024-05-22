@@ -46,4 +46,6 @@ git revert <commit hash>
 
 git show <commit hash>
 
-Need to add more command
+git cherry-pick <commit hash>
+
+
