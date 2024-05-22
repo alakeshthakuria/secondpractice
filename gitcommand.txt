@@ -48,4 +48,4 @@ git show <commit hash>
 
 git cherry-pick <commit hash>
 
-
+git stash 
